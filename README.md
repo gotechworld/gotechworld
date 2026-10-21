@@ -57,7 +57,7 @@ My background in platform and software delivery security complements my blockcha
 
 | Period | Role | Organization / Client |
 | --- | --- | --- |
-| 2025–Present | 🦀 Rust / Blockchain Engineer | HCLTech — Financial Intermediaries |
+| 2025–Present | 🦀 Rust / Blockchain Security Engineer | HCLTech — Financial Intermediaries |
 | May 2023–2025 | 🔍 Web3 Security Researcher | HCLTech — Financial Intermediaries |
 | Oct. 2022–Apr. 2023 | 🛡️ DevSecOps Expert | HCLTech — Deutsche Bank UK |
 | Mar. 2022–Sept. 2022 | 🛡️ DevSecOps Engineer | Axsys Romania — UniCredit S.p.A., Italy |
